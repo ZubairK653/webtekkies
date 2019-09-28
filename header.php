@@ -53,10 +53,10 @@
                 <div class="col-lg-12">
                     <ul class="list-inline text-lg-right text-center">
                         <li class="list-inline-item">
-                            <a href="mailto:info@companyname.com">info@webtekkies.com</a>
+                            <a href="#">info@webtekkies.com</a>
                         </li>
                         <li class="list-inline-item">
-                            <a href="callto:1234565523">Call Us Now:
+                            <a href="#">Call Us Now:
                                 <span class="ml-2"> +92-3115696145</span>
                             </a>
                         </li>
@@ -74,7 +74,7 @@
     <div class="navigation">
         <div class="container">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <a class="navbar-brand" href="index-2.html">
+                <a class="navbar-brand" href="index.php">
                     <img src="images/webtekkies-logo.png" alt="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
